@@ -22,7 +22,7 @@
   "scripts": {
     "build": "webpack --env build"
   },
-  "Dependencies": {
+  "dependencies": {
     "enzyme": "^3.0.0",
     "enzyme-adapter-react-13": "^1.0.0",
     "karma": ">=0.10.9",
